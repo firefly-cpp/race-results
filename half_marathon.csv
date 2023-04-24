@@ -1,22 +1,22 @@
-num,name,year,country,time,details,
-1,12. Ljubljanski maraton,Slovenia,2007,1:27:37,
-2,Bratislava marathon,Slovakia,2008,1:25:01,
-3,13. Ljubljanski maraton,Slovenia,2008,1:22:08,
-4,Mali Kraški maraton,Slovenia,2009,1:27:14,
-5,Graz - Mur Halbmarathon,Austria,2009,1:23:42,
-6,30. Maraton treh src Radenci,Slovenia,2010,1:19:21,
-7,3. Eko maraton Maribor,Slovenia,2012,1:19:48,
-8,Mali Kraški maraton,Slovenia,2013,1:25:26,
-9,12. Ormoški mali maraton,Slovenia,2013,1:24:20,
-10,4. Eko maraton Maribor,Slovenia,2013,1:25:05,
-11,5. Eko maraton Maribor,Slovenia,2014,1:40:35,
-12,2. Mali Konjiški maraton,Slovenia,2014,1:53:29,
-13,Sorger Halbmarathon Graz,Austria,2015,1:26:08,
-14,Sorger Halbmarathon Graz,Austria,2016,1:30:47,
-15,15. Ormoški mali maraton,Slovenia,2016,1:29:23,
-16,1. Prekmurski mali maraton,Slovenia,2016,1:28:40,9th place,
-17,Laguna Poreč Half Marathon,Croatia,2017,1:30:10,
-18,16. Ormoški polmaraton,Slovenia,2017,1:29:43,
-19,3. Markovski mali maraton,Slovenia,2017,1:29:36,
-20,Laguna Poreč Half Marathon,Croatia,2018,1:23:47,
-21,Plava Laguna Half Marathon,Croatia,2019,1:27:09,
+num,name,year,country,time,details
+1,12. Ljubljanski maraton,Slovenia,2007,1:27:37,-
+2,Bratislava marathon,Slovakia,2008,1:25:01,-
+3,13. Ljubljanski maraton,Slovenia,2008,1:22:08,-
+4,Mali Kraški maraton,Slovenia,2009,1:27:14,-
+5,Graz - Mur Halbmarathon,Austria,2009,1:23:42,-
+6,30. Maraton treh src Radenci,Slovenia,2010,1:19:21,-
+7,3. Eko maraton Maribor,Slovenia,2012,1:19:48,-
+8,Mali Kraški maraton,Slovenia,2013,1:25:26,-
+9,12. Ormoški mali maraton,Slovenia,2013,1:24:20,-
+10,4. Eko maraton Maribor,Slovenia,2013,1:25:05,-
+11,5. Eko maraton Maribor,Slovenia,2014,1:40:35,-
+12,2. Mali Konjiški maraton,Slovenia,2014,1:53:29,-
+13,Sorger Halbmarathon Graz,Austria,2015,1:26:08,-
+14,Sorger Halbmarathon Graz,Austria,2016,1:30:47,-
+15,15. Ormoški mali maraton,Slovenia,2016,1:29:23,-
+16,1. Prekmurski mali maraton,Slovenia,2016,1:28:40,9th place
+17,Laguna Poreč Half Marathon,Croatia,2017,1:30:10,-
+18,16. Ormoški polmaraton,Slovenia,2017,1:29:43,-
+19,3. Markovski mali maraton,Slovenia,2017,1:29:36,-
+20,Laguna Poreč Half Marathon,Croatia,2018,1:23:47,-
+21,Plava Laguna Half Marathon,Croatia,2019,1:27:09,-
