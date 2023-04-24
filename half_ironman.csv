@@ -1,33 +1,33 @@
-num;race;country;year;time;details;
-1;IRONMAN 70.3 Germany;Germany;2008;5:13:49;
-2;IRONMAN 70.3 Monaco;Monaco;2008;5:25:38;
-3;IRONMAN 70.3 Austria;Austria;2009;4:58:52;
-4;IRONMAN 70.3 Singapore;Singapore;2010;4:50:50;3rd place in 18-24AG;
-5;IRONMAN 70.3 Austria;Austria;2010;5:03:33;
-6;IRONMAN 70.3 Germany;Germany;2010;4:57:10;
-7;Loveman Bled;Slovenia;2010;4:28:52;
-8;IRONMAN 70.3 Singapore;Singapore;2011;4:47:32;
-9;Austrian 1/2 IRON Triathlon;Austria;2011;4:20:51;1st Place in U23;
-10;Loveman Bled;Slovenia;2011;4:46:31;
-11;IRONMAN 70.3 Singapore;Singapore;2012;5:03:53;
-12;Austrian 1/2 IRON Triathlon;Austria;2012;4:24:02;
-13;Austrian 1/2 IRON Triathlon;Austria;2013;4:29:22;
-14;IRONMAN 70.3 Austria;Austria;2013;4:12:28;Converted to duathlon;
-15;IRONMAN 70.3 Putrajaya;Malaysia;2014;6:25:45;
-16;Austrian 1/2 IRON Triathlon;Austria;2014;4:42:13;
-17;HALF IRON LOGARSKA;Slovenia;2014;5:48:58;
-18;Challenge Bahrain;Bahrain;2014;4:57:22;
-19;Austrian 1/2 Iron Triathlon;Austria;2015;4:46:45;
-20;Challenge Walchsee-Kaiserwinkl;Austria;2015;5:25:04;
-21;IRONMAN 70.3 Pula;Croatia;2015;4:56:28;Swim is not included in the results due to the organizer's failure.;
-22;Austrian 1/2 Iron Triathlon - Röcksee;Austria;2016;4:52:33;
-23;Ocean Lava race Celje-Logarska dolina;Slovenia;2016;5:58:58;
-24;Challenge Iceland;Iceland;2016;6:29:42;1st place in 25-29AG;
-25;Dolgi triatlon Bakovci;Slovenia;2016;4:53:27;
-26;Challenge Samorin;Slovakia;2016;5:43:43;
-27;Ford Challenge Prague;Czech Republic;2017;5:04:23;
-28;Dolgi triatlon Murska Sobota;Slovenia;2017;4:39:23;3rd place in AG;
-29;Austrian 1/2 Iron Triathlon;Austria;2018;4:43:28;
-30;IRONMAN 70.3 Jeju Korea;South Korea;2018;4:28:08;shorter swim (bad weather) 2nd place in AG;
-31;IRONMAN 70.3 Slovenian Istria;Slovenia;2019;5:32:40;
-32;IRONMAN 70.3 Slovenian Istria;Slovenia;2021;5:34:27;
+num,race,country,year,time,details,
+1,IRONMAN 70.3 Germany,Germany,2008,5:13:49,
+2,IRONMAN 70.3 Monaco,Monaco,2008,5:25:38,
+3,IRONMAN 70.3 Austria,Austria,2009,4:58:52,
+4,IRONMAN 70.3 Singapore,Singapore,2010,4:50:50,3rd place in 18-24AG,
+5,IRONMAN 70.3 Austria,Austria,2010,5:03:33,
+6,IRONMAN 70.3 Germany,Germany,2010,4:57:10,
+7,Loveman Bled,Slovenia,2010,4:28:52,
+8,IRONMAN 70.3 Singapore,Singapore,2011,4:47:32,
+9,Austrian 1/2 IRON Triathlon,Austria,2011,4:20:51,1st Place in U23,
+10,Loveman Bled,Slovenia,2011,4:46:31,
+11,IRONMAN 70.3 Singapore,Singapore,2012,5:03:53,
+12,Austrian 1/2 IRON Triathlon,Austria,2012,4:24:02,
+13,Austrian 1/2 IRON Triathlon,Austria,2013,4:29:22,
+14,IRONMAN 70.3 Austria,Austria,2013,4:12:28,Converted to duathlon,
+15,IRONMAN 70.3 Putrajaya,Malaysia,2014,6:25:45,
+16,Austrian 1/2 IRON Triathlon,Austria,2014,4:42:13,
+17,HALF IRON LOGARSKA,Slovenia,2014,5:48:58,
+18,Challenge Bahrain,Bahrain,2014,4:57:22,
+19,Austrian 1/2 Iron Triathlon,Austria,2015,4:46:45,
+20,Challenge Walchsee-Kaiserwinkl,Austria,2015,5:25:04,
+21,IRONMAN 70.3 Pula,Croatia,2015,4:56:28,Swim is not included in the results due to the organizer's failure.,
+22,Austrian 1/2 Iron Triathlon - Röcksee,Austria,2016,4:52:33,
+23,Ocean Lava race Celje-Logarska dolina,Slovenia,2016,5:58:58,
+24,Challenge Iceland,Iceland,2016,6:29:42,1st place in 25-29AG,
+25,Dolgi triatlon Bakovci,Slovenia,2016,4:53:27,
+26,Challenge Samorin,Slovakia,2016,5:43:43,
+27,Ford Challenge Prague,Czech Republic,2017,5:04:23,
+28,Dolgi triatlon Murska Sobota,Slovenia,2017,4:39:23,3rd place in AG,
+29,Austrian 1/2 Iron Triathlon,Austria,2018,4:43:28,
+30,IRONMAN 70.3 Jeju Korea,South Korea,2018,4:28:08,shorter swim (bad weather) 2nd place in AG,
+31,IRONMAN 70.3 Slovenian Istria,Slovenia,2019,5:32:40,
+32,IRONMAN 70.3 Slovenian Istria,Slovenia,2021,5:34:27,
