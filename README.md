@@ -1,5 +1,7 @@
 # About
 
+The repository hosts a collection of my race results from endurance competitions organized in spreadsheets.
+
 ## Contents
 - [Triathlon](#triathlon-)
 - [Running](#running-)
@@ -8,10 +10,8 @@
 
 - [Half IRONMAN](https://github.com/firefly-cpp/race-results/blob/main/half_ironman.csv)
 - [IRONMAN](https://github.com/firefly-cpp/race-results/blob/main/ironman.csv)
-- [Ultra triathlon](https://github.com/firefly-cpp/race-results/blob/main/
-ultra-triathlon.csv)
-- [XTERRA](https://github.com/firefly-cpp/race-results/blob/main/
-xterra.csv)
+- [Ultra triathlon](https://github.com/firefly-cpp/race-results/blob/main/ultra-triathlon.csv)
+- [XTERRA](https://github.com/firefly-cpp/race-results/blob/main/xterra.csv)
 
 ## Running
 - [Marathon](https://github.com/firefly-cpp/race-results/blob/main/marathon.csv)
