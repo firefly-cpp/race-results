@@ -1,6 +1,6 @@
 # About
 
-The repository hosts a collection of my race results from endurance competitions organized in spreadsheets.
+The repository hosts a collection of my race results from endurance competitions (organized in spreadsheets).
 
 ## Contents
 - [Triathlon](#triathlon-)
