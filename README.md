@@ -5,6 +5,8 @@ The repository hosts a collection of my race results from endurance competitions
 ## Contents
 - [Triathlon](#triathlon-) :swimmer::bicyclist::runner:
 - [Running](#running-) :runner:
+- [Cycling](#cycling-) :bicyclist:
+- [Duathlon](#duathlon-) :runner::bicyclist:
 
 ## Triathlon :swimmer::bicyclist::runner:
 
@@ -12,10 +14,21 @@ The repository hosts a collection of my race results from endurance competitions
 - [IRONMAN](https://github.com/firefly-cpp/race-results/blob/main/ironman.csv)
 - [Ultra triathlon](https://github.com/firefly-cpp/race-results/blob/main/ultra-triathlon.csv)
 - [XTERRA](https://github.com/firefly-cpp/race-results/blob/main/xterra.csv)
+- [Olympic distance](https://github.com/firefly-cpp/race-results/blob/main/olympic-distance-triathlon.csv)
 
 ## Running :runner:
+
+- [Half marathon](https://github.com/firefly-cpp/race-results/blob/main/half_marathon.csv)
 - [Marathon](https://github.com/firefly-cpp/race-results/blob/main/marathon.csv)
-- [Half Marathon](https://github.com/firefly-cpp/race-results/blob/main/half_marathon.csv)
+- [Ultra marathon](https://github.com/firefly-cpp/race-results/blob/main/ultramarathon.csv)
+
+## Cycling :bicyclist:
+
+- [Ultra-distance cycling](https://github.com/firefly-cpp/race-results/blob/main/ultracycling.csv)
+
+## Duathlon :runner::bicyclist:
+
+- [Powerman](https://github.com/firefly-cpp/race-results/blob/main/powerman.csv)
 
 ## Possible errors in data
 
