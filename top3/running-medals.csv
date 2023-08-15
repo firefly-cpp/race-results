@@ -1,6 +1,6 @@
 num,race,year,place,category,details
 1,Šolske igre Bakovci,2003,2,?,--
-2,Pokal Peš na Pohorje,2007,1,?--
+2,Pokal Peš na Pohorje,2007,1,?,--
 3,3. Moravski tek,2008,1,?,--
 4,7. pokal občine Gornji Petrovci,2008,1,?,--
 5,Mura kros,2008,3,Overall,--
@@ -41,15 +41,15 @@ num,race,year,place,category,details
 40,Pomurski pokal (skupno),2018,1,AG,--
 41,17. Ormoški polmaraton (5km race),2018,2,Overall,--
 42,17. Ormoški polmaraton (5km race),2018,2,AG,--
-43,Tek okoli Bukovniškega jezera,2018,1,Overall--
+43,Tek okoli Bukovniškega jezera,2018,1,Overall,--
 44,Tek okoli Bukovniškega jezera,2018,1,AG,--
 45,Tek okoli Bukovniškega jezera,2019,1,Overall,--
 46,Tek okoli Bukovniškega jezera,2019,1,AG,--
 47,Božičkov tek Maribor,2017,3,AG,--
 48,17. Blaguški tek,2019,1,AG,--
 49,17. Blaguški tek,2019,2,overall,--
-50,8. Bezgov tek 2019,1,AG,--
-51,8. Bezgov tek 2019,1,OVERALL,--
+50,8. Bezgov tek,2019,1,AG,--
+51,8. Bezgov tek,2019,1,OVERALL,--
 52,5. Bakovski tek,2019,1,OVERALL,--
 53,5. Bakovski tek,2019,1,AG,--
 54,34. Tradicionalni tek ob jezeru Sveta Trojica,2018,2,Overall,--
