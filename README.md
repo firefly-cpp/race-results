@@ -30,6 +30,23 @@ The repository hosts a collection of my race results from endurance competitions
 
 - [Powerman](https://github.com/firefly-cpp/race-results/blob/main/powerman.csv)
 
+## TOP 3 list
+
+- [Running](https://github.com/firefly-cpp/race-results/blob/main/running-medals.csv)
+- [Multisport](https://github.com/firefly-cpp/race-results/blob/main/multisport-medals.csv)
+
+## Personal records
+
+| Distance               | Time     | Location             | Year |
+| ---------------------- | -------- | -------------------- | ---- |
+| 5 km (run)             | 17:48    | Silvesterlauf GRAZ   | 2012 |
+| 10 km (run)            | 37:50    | Grazer Silvesterlauf | 2008 |
+| 21.1 km (run)          | 1:19:21  | 30. MTS              | 2010 |
+| 42.2 km (run)          | 3:01:09  | 32. MTS              | 2012 |
+| Half IRONMAN           | 4:28:52  | LOVEMAN Bled         | 2010 |
+| IRONMAN                | 10:55:46 | IRONMAN Tallinn      | 2018 |
+| Double Ultra Triathlon | 31:02:58 | Double Ultra Slovenia| 2014 |
+
 ## Possible errors in data
 
 If you spot an error in the data, please let me know. Since I collected data from several outside sources and pdfs, some minor errors may occur.
