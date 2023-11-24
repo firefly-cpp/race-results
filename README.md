@@ -34,6 +34,7 @@ The repository hosts a collection of my race results from endurance competitions
 
 - [Running](https://github.com/firefly-cpp/race-results/blob/main/top3/running-medals.csv)
 - [Multisport](https://github.com/firefly-cpp/race-results/blob/main/top3/multisport-medals.csv)
+- [Cycling](https://github.com/firefly-cpp/race-results/blob/main/top3/cycling-medals.csv)
 
 ## Personal records
 
