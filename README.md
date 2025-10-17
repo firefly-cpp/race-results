@@ -55,3 +55,8 @@ If you spot an error in the data, please let me know. Since I collected data fro
 ## A note on data mining
 
 Current data collection is far from a severe collection/dataset for performing data mining since this is only a personal collection of past race results. However, if you find it interesting to mine this data, please let me know. I am keen to see any new insight from these data :)
+
+## Complete competition results
+
+Since many full results from races held more than 15 years ago are no longer available online, feel free to reach out if you're looking for the complete results of a race we both competed in. I still have copies, usually in PDF format, and can share them with you.
+
