@@ -10,31 +10,31 @@ The repository hosts a collection of my race results from endurance competitions
 
 ## Triathlon :swimmer::bicyclist::runner:
 
-- [Half IRONMAN](https://github.com/firefly-cpp/race-results/blob/main/results/half_ironman.csv)
-- [IRONMAN](https://github.com/firefly-cpp/race-results/blob/main/results/ironman.csv)
-- [Ultra triathlon](https://github.com/firefly-cpp/race-results/blob/main/results/ultra-triathlon.csv)
-- [XTERRA](https://github.com/firefly-cpp/race-results/blob/main/results/xterra.csv)
-- [Olympic distance](https://github.com/firefly-cpp/race-results/blob/main/results/olympic-distance-triathlon.csv)
+- [Half IRONMAN](https://github.com/firefly-cpp/race-results/blob/main/data/half_ironman.csv)
+- [IRONMAN](https://github.com/firefly-cpp/race-results/blob/main/data/ironman.csv)
+- [Ultra triathlon](https://github.com/firefly-cpp/race-results/blob/main/data/ultra-triathlon.csv)
+- [XTERRA](https://github.com/firefly-cpp/race-results/blob/main/data/xterra.csv)
+- [Olympic distance](https://github.com/firefly-cpp/race-results/blob/main/data/olympic-distance-triathlon.csv)
 
 ## Running :runner:
 
-- [Half marathon](https://github.com/firefly-cpp/race-results/blob/main/results/half_marathon.csv)
-- [Marathon](https://github.com/firefly-cpp/race-results/blob/main/results/marathon.csv)
-- [Ultra marathon](https://github.com/firefly-cpp/race-results/blob/main/results/ultramarathon.csv)
+- [Half marathon](https://github.com/firefly-cpp/race-results/blob/main/data/half_marathon.csv)
+- [Marathon](https://github.com/firefly-cpp/race-results/blob/main/data/marathon.csv)
+- [Ultra marathon](https://github.com/firefly-cpp/race-results/blob/main/data/ultramarathon.csv)
 
 ## Cycling :bicyclist:
 
-- [Ultra-distance cycling](https://github.com/firefly-cpp/race-results/blob/main/results/ultracycling.csv)
+- [Ultra-distance cycling](https://github.com/firefly-cpp/race-results/blob/main/data/ultracycling.csv)
 
 ## Duathlon :runner::bicyclist:
 
-- [Powerman](https://github.com/firefly-cpp/race-results/blob/main/results/powerman.csv)
+- [Powerman](https://github.com/firefly-cpp/race-results/blob/main/data/powerman.csv)
 
 ## TOP 3 list
 
-- [Running](https://github.com/firefly-cpp/race-results/blob/main/top3/running-medals.csv)
-- [Multisport](https://github.com/firefly-cpp/race-results/blob/main/top3/multisport-medals.csv)
-- [Cycling](https://github.com/firefly-cpp/race-results/blob/main/top3/cycling-medals.csv)
+- [Running](https://github.com/firefly-cpp/race-results/blob/main/data/running-medals.csv)
+- [Multisport](https://github.com/firefly-cpp/race-results/blob/main/data/multisport-medals.csv)
+- [Cycling](https://github.com/firefly-cpp/race-results/blob/main/data/cycling-medals.csv)
 
 ## Personal records
 
