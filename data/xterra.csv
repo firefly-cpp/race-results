@@ -1,3 +1,3 @@
-num,race,country,year,time,details
-1,Xterra Czech,Czech Republic,2008,3:12:21,-
-2,Xterra Austria,Austria,2008,DNF,Bike problems
+num,race,country,year,distance,swim-time,t1-time,bike-time,t2-time,run-time,overall-time,details
+1,Xterra Czech,Czech Republic,2008,?,0:20:16,X,1:57:01,X,0:55:04,3:12:21,-
+2,XTERRA Austria,Austria,2008,?,0:36:04,0:02:15,X,X,X,DNF,Bike problems
