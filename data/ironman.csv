@@ -1,6 +1,6 @@
-num,race,country,year,time,details
-1,IRONMAN France,France,2009,12:26:49,-
-2,IRONMAN Austria,Austria,2010,11:41:15,-
-3,IRONMAN Copenhagen,Denmark,2013,11:29:13,-
-4,eXtremeMan 2015,Hungary,2015,13:01:37,-
-5,IRONMAN Tallinn,Estonia,2018,10:55:46,-
+num,race,country,year,swim,t1,bike,t2,run,overall-time,details
+1,IRONMAN France,France,2009,01:27:46,00:06:34,05:56:52,00:07:24,04:48:13,12:26:49,-
+2,IRONMAN Austria,Austria,2010,01:22:59,00:03:36,05:19:30,00:07:28,04:47:40,11:41:15,-
+3,IRONMAN Copenhagen,Denmark,2013,01:08:29,00:06:43,05:15:55,00:03:33,04:54:35,11:29:13,-
+4,eXtremeMan 2015,Hungary,2015,01:23:54,00:05:18,05:42:31,00:05:36,05:44:19,13:01:37,-
+5,IRONMAN Tallinn,Estonia,2018,01:19:12,?,05:06:33,?,04:18:19,10:55:46,-
