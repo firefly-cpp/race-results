@@ -16,7 +16,7 @@ The repository hosts a collection of my race results from endurance competitions
 - [XTERRA and cross triathlon](https://github.com/firefly-cpp/race-results/blob/main/data/xterra-cross-triathlon.csv)
 - [Wintertriathlon](https://github.com/firefly-cpp/race-results/blob/main/data/wintertriathlon.csv)
 - [Olympic distance](https://github.com/firefly-cpp/race-results/blob/main/data/olympic-distance-triathlon.csv)
-- [Sprint and super sprint distance](https://github.com/firefly-cpp/race-results/blob/main/data/sprint-and-super-sprint)
+- [Sprint and super sprint distance](https://github.com/firefly-cpp/race-results/blob/main/data/sprint-and-super-sprint.csv)
 
 ## Running :runner:
 
