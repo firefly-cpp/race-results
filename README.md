@@ -16,12 +16,15 @@ The repository hosts a collection of my race results from endurance competitions
 - [XTERRA and cross triathlon](https://github.com/firefly-cpp/race-results/blob/main/data/xterra-cross-triathlon.csv)
 - [Wintertriathlon](https://github.com/firefly-cpp/race-results/blob/main/data/wintertriathlon.csv)
 - [Olympic distance](https://github.com/firefly-cpp/race-results/blob/main/data/olympic-distance-triathlon.csv)
+- [Sprint and super sprint distance](https://github.com/firefly-cpp/race-results/blob/main/data/sprint-and-super-sprint)
 
 ## Running :runner:
 
 - [Half marathon](https://github.com/firefly-cpp/race-results/blob/main/data/half_marathon.csv)
 - [Marathon](https://github.com/firefly-cpp/race-results/blob/main/data/marathon.csv)
 - [Ultra marathon](https://github.com/firefly-cpp/race-results/blob/main/data/ultramarathon.csv)
+- [5 km](https://github.com/firefly-cpp/race-results/blob/main/data/5km.csv)
+- [10 km](https://github.com/firefly-cpp/race-results/blob/main/data/10km.csv)
 
 ## Cycling :bicyclist:
 
@@ -29,6 +32,7 @@ The repository hosts a collection of my race results from endurance competitions
 
 ## Duathlon :runner::bicyclist:
 
+- [Duathlon](https://github.com/firefly-cpp/race-results/blob/main/data/duathlon.csv)
 - [Powerman](https://github.com/firefly-cpp/race-results/blob/main/data/powerman.csv)
 
 ## TOP 3 list
