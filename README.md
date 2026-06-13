@@ -25,6 +25,7 @@ The repository hosts a collection of my race results from endurance competitions
 - [Ultra marathon](https://github.com/firefly-cpp/race-results/blob/main/data/ultramarathon.csv)
 - [5 km](https://github.com/firefly-cpp/race-results/blob/main/data/5km.csv)
 - [10 km](https://github.com/firefly-cpp/race-results/blob/main/data/10km.csv)
+- [Other distances](https://github.com/firefly-cpp/race-results/blob/main/data/run-other-distances.csv)
 
 ## Cycling :bicyclist:
 
